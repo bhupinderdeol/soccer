@@ -1,0 +1,6 @@
+{
+  "name": "FIFA Soccer",
+  "description": "Realistic team rosters, online PVP matchmaking tactical challenges, player card pack openings, and intuitive touch controls with real-time 2D soccer matches.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
